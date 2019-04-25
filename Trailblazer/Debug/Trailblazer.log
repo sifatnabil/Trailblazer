@@ -1,0 +1,10 @@
+﻿Build started 10-Feb-17 1:49:49 PM.
+     1>Project "C:\Users\Anika\Dropbox\CSE 1200 SD Lab Project\Trailblazer\Trailblazer\Trailblazer.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (iGraphics.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         Trailblazer.vcxproj -> C:\Users\Anika\Dropbox\CSE 1200 SD Lab Project\Trailblazer\Debug\Trailblazer.exe
+     1>Done Building Project "C:\Users\Anika\Dropbox\CSE 1200 SD Lab Project\Trailblazer\Trailblazer\Trailblazer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.25

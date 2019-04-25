@@ -1,0 +1,6 @@
+
+Game instructions: 
+
+press up, down, left and right arrow keys to navigate the character.
+press s to shoot weapon.
+press w to shoot the ultimate power (not right now :p )
